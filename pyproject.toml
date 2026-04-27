@@ -1,0 +1,6 @@
+[project]
+name = "python-backend-journey"
+version = "0.1.0"
+description = "Backend learning exercises in Python"
+requires-python = ">=3.12"
+
