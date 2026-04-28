@@ -50,5 +50,7 @@ Deactivate the virtual environment:
 
 ```bash
 deactivate
-```
+```## Notes
+
+This project uses a virtual environment and pytest for testing.
 
